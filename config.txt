@@ -1,6 +1,6 @@
 token=NTEyNzM2MDU4NDg4NjUxNzc5.Ds9yaw.XJ5sZbugpS8sAWzxM4KpOEScgws
 owner=381307755077566465
-prefix=3
-game=Tybe 3help
+prefix=Q
+game=Tybe Qhelp
 stayinchannel=true
 songinstatus=true
